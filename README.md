@@ -1,4 +1,4 @@
-<h1>Simple chromium extesion for GitHub</h1>
+<h1>Simple chromium extension for GitHub</h1>
 
 <h2>What does it do?</h2>
 Adding 2 buttons for fast download and fast get link for cloning
