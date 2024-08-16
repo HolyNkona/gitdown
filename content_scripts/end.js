@@ -38,7 +38,7 @@ function reload() {
 
     link_button.onclick = function () {
         navigator.clipboard.writeText(`git clone -b ${branch} https://github.com/${user}/${project}.git`);
-        alert("Скопировано");
+        alert("copied");
     }
     download_button.onclick = function () {
         window.open(`https://github.com/${user}/${project}/archive/refs/heads/${branch}.zip`, "_blank");
