@@ -8,7 +8,7 @@ Downloading:
   Directly downloads zip of git project on selected branch (left side of screenshot)
 
 Copy:
-  Copies command like "git clone -b main <repo>" with selected branch (left side of screenshot)
+  Copies command like "git clone -b main https://github.com/user/repo" with selected branch (left side of screenshot)
 
 <hr>
 Installing:<br>
